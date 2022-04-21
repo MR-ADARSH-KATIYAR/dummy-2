@@ -9,5 +9,5 @@ void main()
     s1=b*b;
     s2=h*h;                                      
     double pe = sqrt(b * b + h * h);
-    printf("Perimeter is : %lf",pe);
+    printf("Hypotenuse is : %lf",pe);
 }
